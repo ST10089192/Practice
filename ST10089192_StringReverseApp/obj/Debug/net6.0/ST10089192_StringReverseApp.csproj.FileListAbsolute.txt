@@ -1,0 +1,15 @@
+C:\Users\lab_services_student\source\repos\ST10089192_StringReverseApp\ST10089192_StringReverseApp\bin\Debug\net6.0\ST10089192_StringReverseApp.exe
+C:\Users\lab_services_student\source\repos\ST10089192_StringReverseApp\ST10089192_StringReverseApp\bin\Debug\net6.0\ST10089192_StringReverseApp.deps.json
+C:\Users\lab_services_student\source\repos\ST10089192_StringReverseApp\ST10089192_StringReverseApp\bin\Debug\net6.0\ST10089192_StringReverseApp.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\ST10089192_StringReverseApp\ST10089192_StringReverseApp\bin\Debug\net6.0\ST10089192_StringReverseApp.dll
+C:\Users\lab_services_student\source\repos\ST10089192_StringReverseApp\ST10089192_StringReverseApp\bin\Debug\net6.0\ST10089192_StringReverseApp.pdb
+C:\Users\lab_services_student\source\repos\ST10089192_StringReverseApp\ST10089192_StringReverseApp\obj\Debug\net6.0\ST10089192_StringReverseApp.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\ST10089192_StringReverseApp\ST10089192_StringReverseApp\obj\Debug\net6.0\ST10089192_StringReverseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\ST10089192_StringReverseApp\ST10089192_StringReverseApp\obj\Debug\net6.0\ST10089192_StringReverseApp.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\ST10089192_StringReverseApp\ST10089192_StringReverseApp\obj\Debug\net6.0\ST10089192_StringReverseApp.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\ST10089192_StringReverseApp\ST10089192_StringReverseApp\obj\Debug\net6.0\ST10089192_StringReverseApp.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\ST10089192_StringReverseApp\ST10089192_StringReverseApp\obj\Debug\net6.0\ST10089192_StringReverseApp.dll
+C:\Users\lab_services_student\source\repos\ST10089192_StringReverseApp\ST10089192_StringReverseApp\obj\Debug\net6.0\refint\ST10089192_StringReverseApp.dll
+C:\Users\lab_services_student\source\repos\ST10089192_StringReverseApp\ST10089192_StringReverseApp\obj\Debug\net6.0\ST10089192_StringReverseApp.pdb
+C:\Users\lab_services_student\source\repos\ST10089192_StringReverseApp\ST10089192_StringReverseApp\obj\Debug\net6.0\ST10089192_StringReverseApp.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\ST10089192_StringReverseApp\ST10089192_StringReverseApp\obj\Debug\net6.0\ref\ST10089192_StringReverseApp.dll
